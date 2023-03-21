@@ -45,7 +45,7 @@ public class CuentaBancaria {
 	 *    @param obtenerSaldo() (saldo que se introduce)
 	 *    @param credito (dinero disponible en la cuenta)
 	 *    @author campusfp
-	 *    @version 1.0.1
+	 *    @version 1.0
 	 * **/
 
 	public double obtenerSaldo() {
